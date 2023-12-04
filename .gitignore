@@ -1,0 +1,10 @@
+log
+.env
+reports
+android_report
+ios_report
+.vscode
+__pycache__
+instance/
+config.yaml
+devices.yaml

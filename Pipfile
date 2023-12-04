@@ -1,0 +1,18 @@
+[[source]]
+name = "aliyun"
+url = "https://mirrors.aliyun.com/pypi/simple"
+verify_ssl = true
+
+[packages]
+selenium = "*"
+appium-python-client = "*"
+httprunner = "<3.0.0"
+markupsafe = "==2.0.1"
+pandas = "*"
+pillow = "*"
+pyyaml = "*"
+jinja2 = "*"
+webdrivermanager = "*"
+
+[requires]
+python_version = "3.8.12"
